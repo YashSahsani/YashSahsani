@@ -16,5 +16,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YashSahsani&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="yashsahsani" /></p>
 
 <p align="center">
-<a href="https://linkedin.com/in/yash sahsani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yash sahsani" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/yash-sahsani-18it112" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yash-sahsani" height="30" width="30" /></a>
 </p>
