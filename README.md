@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm YashSahsani</h1>
-<h3 align="center">A passionate about blockchain and cybersecurity from India.</h3>
+<h3 align="center">Passionate about blockchain and cybersecurity from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashsahsani" alt="yashsahsani" /> </p>
 
