@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashsahsani&label=Profile%20views&color=0e75b6&style=flat" alt="yashsahsani" /> </p>
 
 
-- 🌱 I’m currently learning **NextJs, Blockchain**
+- 🌱 I’m currently learning **NextJs, DevOps**
 
 - 👨‍💻 All of my projects are available at [https://yashsahsani.github.io/YashSahsani-Portfolio](https://yashsahsani.github.io/YashSahsani-Portfolio)
 
